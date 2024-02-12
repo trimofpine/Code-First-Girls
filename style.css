@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Nurom;
+    src:url(nurom-bold.ttf)
+}
+
+@font-face {
+    font-family: KeepCalm;
+    src: url(KeepCalm-Medium.ttf);
+}
+
+#Title {
+    font-family: Nurom;
+}
+
+#Subtitle {
+    font-family: KeepCalm;
+}
+
+.navbar {
+    font-family: KeepCalm;
+}
+
+.banner {
+    background-image: url(/philippe-gauthier-eaOjEz8746k-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    font-family: Nurom;
+}
+
+.accordion-button {
+    background-color: orange !important;
+    font-family: KeepCalm;
+}
+
+#footer {
+    background-color: black;
+}
