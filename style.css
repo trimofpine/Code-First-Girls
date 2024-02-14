@@ -1,0 +1,113 @@
+body {
+    margin: 30px;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(55, 4, 95);
+    background-image: url(beach.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+
+
+main {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-size: 50px;
+    color: #f3fc75;
+    font-style: italic;
+
+}
+
+h2 {
+    text-align: center
+}
+
+.navbar ul {
+    display: flex;
+    list-style-type: none;
+    background-color: #694356;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    font-weight: bold;
+    justify-content: flex-start;
+    align-items: center;
+
+
+}
+
+
+
+.navbar a {
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    text-align: left;
+
+}
+
+.navbar a:hover {
+    background-color: rgb(157, 183, 194);
+}
+
+.navbar li {
+    float: left;
+
+}
+
+footer {
+
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+
+. @media (min-width:600px) {
+
+    .wrapper-main {
+        width: 100%;
+
+    }
+}
+
+@media (min-width:601px) {
+
+    .wrapper-main {
+        width: 100%;
+
+    }
+}
+
+@media (min-width:768px) {
+
+    .wrapper-main {
+        width: 100%;
+
+    }
+}
+
+@media (min-width:992px) {
+
+    .wrapper-main {
+        width: 100%;
+
+    }
+}
+
+@media (min-width:1200px) {
+
+    .wrapper-main {
+        width: 100%;
+
+    }
+}
